@@ -1,7 +1,7 @@
 # WorldGuard Русификация плагина в коде | версия 1.21.4
 
 <div id="header" align="center">
-  <img src="https://foxycraft.ru/itsmyfox/WorldGuard.gif" width="100"/>
+  <img src="https://foxycraft.ru/itsmyfox/WorldGuard.gif"/>
 </div>
 
 Выполнена полная русификация плагина WorldGuard версии 7.0.x для Minecraft. Переведены все текстовые сообщения в исходном коде, включая:
