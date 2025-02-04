@@ -4,6 +4,20 @@
   <img src="https://foxycraft.ru/itsmyfox/WorldGuard.gif"/>
 </div>
 
+![](https://foxycraft.ru/itsmyfox/WorldGuard.gif)
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://foxycraft.ru/itsmyfox/WorldGuard.gif" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 Выполнена полная русификация плагина WorldGuard версии 7.0.x для Minecraft. Переведены все текстовые сообщения в исходном коде, включая:
 
 Системные сообщения и логи
