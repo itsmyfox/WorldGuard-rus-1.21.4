@@ -1,20 +1,21 @@
 # WorldGuard Русификация плагина в коде | версия 1.21.4
+<div id="badges">
+  <a href="https://t.me/itsmyfox">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/itsmyfox"/>
+  </a>
+  <a href="[your-youtube-URL](https://www.tiktok.com/@foxygameru?is_from_webapp=1&sender_device=pc)">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="https://www.tiktok.com/@foxygameru?is_from_webapp=1&sender_device=pc"/>
+  </a>
+  <a href="https://www.youtube.com/@foxygameru">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/@foxygameru"/>
+  </a>
+</div>
+
 
 ![worldguard-logo](https://github.com/user-attachments/assets/c0cfe021-cf13-42ea-b14e-3213227624b2)
 
 https://github.com/user-attachments/assets/00922300-16f6-4841-b42c-e7972d3400c0
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/itsmyfox"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="https://www.tiktok.com/@foxygameru?is_from_webapp=1&sender_device=pc"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/@foxygameru"/>
-  </a>
-</div>
 
 Выполнена полная русификация плагина WorldGuard версии 7.0.x для Minecraft. Переведены все текстовые сообщения в исходном коде, включая:
 
