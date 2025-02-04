@@ -1,3 +1,1 @@
-<div id="header" align="center">
-  <img src="https://foxycraft.ru/itsmyfox/WorldGuard.gif" width="100"/>
-</div>
+<video src='https://foxycraft.ru/itsmyfox/WorldGuard.mp4' width=180/>
