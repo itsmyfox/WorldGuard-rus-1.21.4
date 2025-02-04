@@ -39,4 +39,12 @@ WorldEdit: 7.3.11
 
 ![image](https://github.com/user-attachments/assets/7093f193-872e-4043-9110-b3cb35e4a50d)
 
+Информация о регионе:
+
+![image](https://github.com/user-attachments/assets/a8634c43-2aac-4da1-9db7-d840f0db27ed)
+
+Добавление / удаление участников с региона:
+
+![image](https://github.com/user-attachments/assets/887f10b7-19cf-44b2-9c21-42e2102a5638)
+
 
