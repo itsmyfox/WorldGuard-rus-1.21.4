@@ -47,4 +47,6 @@ WorldEdit: 7.3.11
 
 ![image](https://github.com/user-attachments/assets/887f10b7-19cf-44b2-9c21-42e2102a5638)
 
+Изменения исходного кода для руссификации слов true, false, allow, deny, weather type, entity type и другие. Работоспособность кода это не затрагивает, лишь затрагивает отображение русских слов в определенном интерфейсе flags.
+
 
